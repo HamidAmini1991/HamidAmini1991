@@ -1,9 +1,44 @@
-<h1 align="center">Hi 👋, I'm HamidAmini1991may25</h1>
-<h3 align="center">A passionate frontend developer from IRAN</h3>
+# Tour
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidamini1991&label=Profile%20views&color=0e75b6&style=flat" alt="hamidamini1991" /> </p>
+<h4 align="center">
+  <span>Project Live Demo -> () </span>
+  <a href="https://hamidamini1991.github.io/Tour/" target="_blank">Demo</a>
+  |
+  <span>Give Tips -> </span>
+  <a href="" target="_blank">Telgram</a>
+</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidamini1991" alt="hamidamini1991" /></a> </p>
+### Project Preview
+![Screenshot 2024-02-20 172153](https://github.com/HamidAmini1991/Tour/assets/157976852/4f330254-4032-40ce-ba93-77c824a2cc83)
+
+
+
+<br>
+
+## 📃Description
+  A hover trick to a card, suitable for gaming and fantasy websites.
+<br>
+
+## 📊Status
+### Creator : Hamid Amini
+#### ⚙️ Technology used : HTML, Css, Scss
+<br>
+
+## 🌐Social Media
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/hamid-amini-b67bb32b5/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidrjpr2" height="40" width="50" />
+  </a>
+  <a href="https://instagram.com/hamidamini_fe2024" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidrjpr3" height="40" width="50" />
+  </a>
+  <a href="https://github.com/HamidAmini1991">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="40">
+  </a>
+</p>
+<br>
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamidAmini1991](https://github.com/HamidAmini1991)
 
@@ -28,3 +63,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidamini1991&" alt="hamidamini1991" /></p>
 
+## 🔰Contact me
+#### Phone : 09109696676
+#### Email : hamid19amini@gmail.com
+#### Telegram : []()
