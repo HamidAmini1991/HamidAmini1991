@@ -2,14 +2,14 @@
 
 <h4 align="center">
   <span>Project Live Demo -> () </span>
-  <a href="https://hamidamini1991.github.io/Tour/" target="_blank">Demo</a>
+  <a href="" target="_blank">Demo</a>
   |
   <span>Give Tips -> </span>
   <a href="" target="_blank">Telgram</a>
 </h4>
 
 ### Project Preview
-![Screenshot 2024-02-20 172153](https://github.com/HamidAmini1991/Tour/assets/157976852/4f330254-4032-40ce-ba93-77c824a2cc83)
+![Screenshot 2024-02-20 172153]()
 
 
 
